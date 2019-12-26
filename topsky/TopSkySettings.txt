@@ -49,7 +49,6 @@ CPDLC_ASP=0
 CPDLC_PlaySound=0
 CPDLC_PDC_PlaySound=0
 
-
 HTTP_METAR_Server=http://metars.flyatlantic-va.com/
 HTTP_METAR_Page_Prefix=metar?ICAO=
 HTTP_METAR_Page_Suffix=
